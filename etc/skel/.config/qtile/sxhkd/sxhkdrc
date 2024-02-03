@@ -422,8 +422,11 @@ ctrl + alt + o
 #    qtile-cmd -o layout -f normalize
 
 #kill
-#super + q
-#    qtile-cmd -o window -f kill
+super + q
+    qtile-cmd -o window -f kill
+
+super + shift + q
+    qtile-cmd -o window -f kill
 
 # Foucs WINDOW (Navigate)
 #super + {Left,Down,Up,Right}
