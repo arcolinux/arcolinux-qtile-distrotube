@@ -1,5 +1,5 @@
-# ArcoLinux-qtile-dots
+# ArcoLinux-qtile-distrotube
 
 all credits to Dtos - Derek Taylor
 
-Thank you RonitGandhi for the new config based on Dtos
+Config from 02/2024 from his gitlab
