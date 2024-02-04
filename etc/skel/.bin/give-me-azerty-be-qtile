@@ -33,7 +33,7 @@ echo
 
 user=$( who | cut -d ' ' -f1 | uniq)
 
-cp -v /home/$user/.config/qtile/config-azerty.py /home/$user/.config/qtile/config.py
+#cp -v /home/$user/.config/qtile/config-azerty.py /home/$user/.config/qtile/config.py
 
 echo
 echo "###############################################################################"
